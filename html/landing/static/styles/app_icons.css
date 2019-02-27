@@ -1,0 +1,23 @@
+application {
+    display: inline-block;
+    width: 200px;
+    position: relative;
+    min-height: 110px;
+    max-height: 110px;
+    margin: 10px;
+    border: 1px solid #CCCCCC;
+    border-radius: 10px;
+}
+
+application img {
+    position: absolute;
+    max-height: 100%;;
+    left: 25%;
+
+}
+
+application .logo_container {
+    background-color: red;
+
+
+}
